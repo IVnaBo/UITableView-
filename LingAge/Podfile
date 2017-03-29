@@ -1,0 +1,5 @@
+target 'LingAge' do 
+
+pod  'SDWebImage'
+
+	end
